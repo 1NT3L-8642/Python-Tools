@@ -1,3 +1,4 @@
+# SYNTAX IN KALI = python3 scan_port.py
 # These modules need to be imported to allow the code to run
 import sys
 import socket
