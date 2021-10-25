@@ -1,4 +1,4 @@
-# Import these to allow the code to run
+# Import these to allow the code to run.
 import requests
 import sys
 
