@@ -1,3 +1,4 @@
+#  SYNTAX IN KALI = python3 dir_enum.py TARGET IP ADDRESS
 # Import these to allow the code to run.
 import requests
 import sys
@@ -15,4 +16,4 @@ for dir in directories
   else:
     print("Valid Directory:" ,dir_enum)
 
-#  SYNTAX IN KALI = python3 dir_enum.py IP ADDRESS
+
