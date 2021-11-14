@@ -5,6 +5,10 @@ robots
 bin
 bash
 admin
+txt
+xxx
+bak
+old
 user
 debug
 123456
